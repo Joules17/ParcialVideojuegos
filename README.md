@@ -5,7 +5,7 @@ Hecho con el framework para juegos de JavaScript, Phaser 3 y siguiendo la guía 
 
 __Link del video del juego__
 ```
-> sad
+> https://youtu.be/f5pAtp_xnKU
 ```
 ## Estudiante:
 > Julian Andres Salamanca Tellez __1841654-3743__ 🤓
