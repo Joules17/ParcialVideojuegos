@@ -3,6 +3,10 @@ __Flappy Bird__
 
 Hecho con el framework para juegos de JavaScript, Phaser 3 y siguiendo la guía del campus. 
 
+__Link del video del juego__
+```
+> sad
+```
 ## Estudiante:
 > Julian Andres Salamanca Tellez __1841654-3743__ 🤓
 
